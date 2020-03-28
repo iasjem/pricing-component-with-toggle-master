@@ -45,3 +45,14 @@ body {
     z-index: 999;
 }
 
+
+/* Footer setup */
+.attribution {
+    height: 40px;
+    background-color: transparent;
+    padding: 14px 0;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {color: hsl(228, 45%, 44%); }
