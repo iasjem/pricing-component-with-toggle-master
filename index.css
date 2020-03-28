@@ -51,6 +51,12 @@ body {
     color: #494c5f;
 }
 
+.wrapper .pricing-option .option-label {
+    font-size: 12px;
+    font-weight: 700;
+    color: #b3b5c6;
+}
+
 
 /* Footer setup */
 .attribution {
